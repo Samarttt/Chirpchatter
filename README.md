@@ -38,7 +38,7 @@ Bulit PHP **_Twitter Clone_** IN OOP style and using MYSQL Database. AJAX and Jq
 
  ```php
     protected static $servername = "localhost";
-    protected static $db_name="twitter";
+    protected static $db_name="chirpchatter";
     protected static $username = "root";
     protected static $password = "";
 ```
